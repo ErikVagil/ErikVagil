@@ -1,6 +1,7 @@
 # Hey all! `\o/`
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/erikvagil)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ErikVagil/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:erikvagil2734@gmail.com?subject=Hey%20Erik!)
 
 ## 👨‍💻 About Me
