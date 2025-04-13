@@ -7,15 +7,11 @@
 ## 👨‍💻 About Me
 
 My name is Erik Vagil. I'm an undergraduate student at Brigham Young University in Provo, UT, set to graduate in April 2025 with my BS in Computer Science. I work for Dr. Fulda in the [DRAGN Labs](https://dragn.ai) on campus as a software developer/research assistant. We do natural language processing and large language model research—it's pretty cool.
-<!--
-- 🏃 I accelerate the research process by building project-specific software.
-- 📄 I design, build, test, and maintain the software I produce.
-- 👥 I collaborate closely with coworkers, teammates, clients, etc.
--->
+
 Here's a little about me:
 
-- 🪈 I'm a flautist of over 10 years. I'm currently trying to learn Chaminade's Flute Concertino in D major.
-- 🎮 I love playing video games, especially skill and story-driven games like Resident Evil Village and the Mass Effect trilogy.
+- 🪈 I'm a flute player of over 10 years. I'm currently trying to learn Chaminade's Concertino in D major.
+- 🎮 I love playing video games, especially skill and story-driven games like Elden Ring and the Mass Effect trilogy.
 - 🥘 The kitchen has my heart—both eating and cooking. Slavic, Korean, and Mexican food are in a three-way tie for my favorites.
 
 ## 🦾 Skills
