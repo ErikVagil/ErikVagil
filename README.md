@@ -1,4 +1,4 @@
-# Hey all! `\o/`
+# Hey all!
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/erikvagil)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ErikVagil/)
@@ -6,13 +6,7 @@
 
 ## 👨‍💻 About Me
 
-My name is Erik Vagil. I'm an undergraduate student at Brigham Young University in Provo, UT, set to graduate in April 2025 with my BS in Computer Science. I work for Dr. Fulda in the [DRAGN Labs](https://dragn.ai) on campus as a software developer/research assistant. We do natural language processing and large language model research—it's pretty cool.
-
-Here's a little about me:
-
-- 🪈 I'm a flute player of over 10 years. I'm currently trying to learn Chaminade's Concertino in D major.
-- 🎮 I love playing video games, especially skill and story-driven games like Elden Ring and the Mass Effect trilogy.
-- 🥘 The kitchen has my heart—both eating and cooking. Slavic, Korean, and Mexican food are in a three-way tie for my favorites.
+My name is Erik Vagil. I recently graduated with my BS in Computer Science from Brigham Young University in Provo, UT.
 
 ## 🦾 Skills
 
@@ -31,23 +25,3 @@ Here's a little about me:
 ### Technologies
 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-
-<!--
-## 🛠️ Projects
--->
-
-
-<!--
-**ErikVagil/ErikVagil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
