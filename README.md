@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-My name is Erik Vagil. I recently graduated with my BS in Computer Science from Brigham Young University in Provo, UT.
+My name is Erik Vagil. I'm currently getting my Master's in Computer Science at the University of Illinois Urbana-Champaign, and I recently graduated with my BS in Computer Science from Brigham Young University in Provo, UT.
 
 ## 🦾 Skills
 
